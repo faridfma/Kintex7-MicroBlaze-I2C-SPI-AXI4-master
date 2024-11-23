@@ -1,0 +1,16 @@
+// Mem file initialization records.
+//
+// SW Build 1846317 on Fri Apr 14 18:55:03 MDT 2017
+// Vivado v2017.1 (64-bit)
+// Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+// Created on Thursday December 15, 2022 - 03:05:27 pm, from:
+//
+//     Map file     - C:\Users\fmabrouk\Documents\FPGA\Kintex7-MicroBlaze-I2C-SPI-AXI4-master\MicroBlaze_2017.srcs\sources_1\bd\design_1\design_1.bmm
+//     Data file(s) - c:/Users/fmabrouk/Documents/FPGA/Kintex7-MicroBlaze-I2C-SPI-AXI4-master/MicroBlaze_2017.srcs/sources_1/bd/design_1/ip/design_1_microblaze_0_0/data/mb_bootloop_le.elf
+//
+// Address space 'design_1_i_microblaze_0.design_1_i_microblaze_0_local_memory_lmb_bram_64K_2_ADDR_SPACE', bit lane [31:0].
+//
+// Bus width = 32 bits, number of bus blocks = 1.
+
+@00000000
+    B8000000

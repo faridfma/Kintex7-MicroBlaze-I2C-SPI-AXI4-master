@@ -1,0 +1,57 @@
+!SESSION 2022-04-06 16:09:33.007 -----------------------------------------------
+eclipse.buildId=2017.1
+java.version=1.8.0_112
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:/Users/fmabrouk/Documents/FPGA/MicroBlaze_2017/MicroBlaze_2017.sdk
+
+This is a continuation of log file C:\Users\fmabrouk\Documents\FPGA\MicroBlaze_2017\MicroBlaze_2017.sdk\.metadata\.bak_0.log
+Created Time: 2022-04-07 15:34:04.122
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-04-07 15:34:04.123
+!MESSAGE XSCT Command: [jtag targets -set -filter {name =~ "Platform Cable USB 00000000000000" && level == 0}], Thread: Worker-112
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-04-07 15:34:04.142
+!MESSAGE XSCT command with result: [jtag targets -set -filter {name =~ "Platform Cable USB 00000000000000" && level == 0}], Result: [null, ]. Thread: Worker-112
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-04-07 15:34:04.143
+!MESSAGE XSCT Command: [jtag frequency], Thread: Worker-112
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-04-07 15:34:04.144
+!MESSAGE XSCT command with result: [jtag frequency], Result: [null, 6000000]. Thread: Worker-112
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-04-07 15:34:04.145
+!MESSAGE XSCT Command: [targets -set -nocase -filter {name =~ "microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Platform Cable USB 00000000000000"} -index 0], Thread: Worker-112
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-04-07 15:34:04.189
+!MESSAGE XSCT command with result: [targets -set -nocase -filter {name =~ "microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Platform Cable USB 00000000000000"} -index 0], Result: [null, ]. Thread: Worker-112
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-04-07 15:34:04.189
+!MESSAGE XSCT Command: [rst -processor], Thread: Worker-112
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-04-07 15:34:04.243
+!MESSAGE XSCT command with result: [rst -processor], Result: [null, ]. Thread: Worker-112
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-04-07 15:34:04.244
+!MESSAGE XSCT Command: [targets -set -nocase -filter {name =~ "microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Platform Cable USB 00000000000000"} -index 0], Thread: Worker-112
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-04-07 15:34:04.279
+!MESSAGE XSCT command with result: [targets -set -nocase -filter {name =~ "microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Platform Cable USB 00000000000000"} -index 0], Result: [null, ]. Thread: Worker-112
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-04-07 15:34:04.280
+!MESSAGE XSCT Command: [dow C:/Users/fmabrouk/Documents/FPGA/MicroBlaze_2017/MicroBlaze_2017.sdk/MicroBlaze-AXI4/Debug/MicroBlaze-AXI4.elf], Thread: Worker-112
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-04-07 15:34:05.291
+!MESSAGE XSCT command with result: [dow C:/Users/fmabrouk/Documents/FPGA/MicroBlaze_2017/MicroBlaze_2017.sdk/MicroBlaze-AXI4/Debug/MicroBlaze-AXI4.elf], Result: [null, ]. Thread: Worker-112
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-04-07 15:34:05.327
+!MESSAGE XSCT Command: [targets -set -nocase -filter {name =~ "microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Platform Cable USB 00000000000000"} -index 0], Thread: Worker-112
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-04-07 15:34:05.379
+!MESSAGE XSCT command with result: [targets -set -nocase -filter {name =~ "microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Platform Cable USB 00000000000000"} -index 0], Result: [null, ]. Thread: Worker-112
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-04-07 15:34:05.380
+!MESSAGE XSCT Command: [con], Thread: Worker-112
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-04-07 15:34:05.385
+!MESSAGE XSCT command with result: [con], Result: [null, ]. Thread: Worker-112
